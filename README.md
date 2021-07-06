@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Linux, VM, Microsoft Azure, Cyber Security
 - 📫 How to reach me: 
   - **Mail:** rob.kv@pm.me
+  - **LinkedIn:** [r-kvam profile](https://www.linkedin.com/in/r-kvam/)
 - ⚡ Fun fact: 
 I love Space Exploration and Space Games
