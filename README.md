@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+
+- ☁ [Check out my portfolio](https://robert-kvam.github.io/Page/)
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning Microsoft Azure and I'm always learning more about Cyber Security 
 - 👯 I’m looking to collaborate on Linux projects.
