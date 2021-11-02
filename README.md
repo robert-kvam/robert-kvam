@@ -34,7 +34,8 @@ Here are some ideas to get you started:
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=ubuntu&logoColor=white" /> 
   <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=for-the-badge&&logo=arch-linux&logoColor=white" /> 
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=for-the-badge&&logo=kali-linux&logoColor=white" />
-  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&&logo=wireguard&logoColor=white" />  
+  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&&logo=wireguard&logoColor=white" /> 
+  <img alt="Teleport" src="https://img.shields.io/badge/-Teleport-fefefe?style=for-the-badge&&logo=teleport&logoColor=white" />
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=for-the-badge&&logo=wireshark&logoColor=white" /> 
 </p>
 
