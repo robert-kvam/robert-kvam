@@ -10,16 +10,6 @@ I ❤️ to **inspire and educate** people in IT.
 Here are some ideas to get you started:
 -->
 
-- ☁ [Check out my portfolio](https://robert-kvam.github.io/Page/)
-- 🔭 I’m currently working on Cyber Security
-- 🌱 I’m currently learning Microsoft Azure and I'm always learning more about Cyber Security 
-- 👯 I’m looking to collaborate on Linux projects.
-- 💬 Ask me about Linux, VM, Microsoft Azure, Cyber Security
-- ⚡ Fun fact: 
-I love Space Exploration and Space Games
-
-
-
 
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
