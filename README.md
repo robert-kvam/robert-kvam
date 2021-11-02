@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
 <p>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white" /> 
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white" />
+  <img alt="Microsoft_Azure" src="https://img.shields.io/badge/-Microsoft_Azure-007ACC?style=for-the-badge&&logo=microsoft-azure&logoColor=white" />
+  <img alt="OVH" src="https://img.shields.io/badge/-OVH_Cloud_Hosting-2496ED?style=for-the-badge&&logo=ovh&logoColor=white" />
   <img alt="Azure_DevOps" src="https://img.shields.io/badge/-Azure_DevOps-007ACC?style=for-the-badge&&logo=azure-devops&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FCB022?style=for-the-badge&&logo=python&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&&logo=docker&logoColor=white" />
@@ -27,8 +29,7 @@ Here are some ideas to get you started:
 
 ### Infrastructure & Network Technologies
 <p>
-  <img alt="Microsoft_Azure" src="https://img.shields.io/badge/-Microsoft_Azure-007ACC?style=for-the-badge&&logo=microsoft-azure&logoColor=white" />
-  <img alt="OVH" src="https://img.shields.io/badge/-OVH_Cloud_Hosting-2496ED?style=for-the-badge&&logo=ovh&logoColor=white" />
+  
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&&logo=nginx&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&&logo=proxmox&logoColor=white" /> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=ubuntu&logoColor=white" /> 
