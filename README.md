@@ -1,5 +1,9 @@
-### Hi there 👋
+## 👋 Hi there, I'm Robert!
+I’m a Tech enthusiast, and IT professional.
 
+I ❤️ to **inspire and educate** people in IT.
+
+🚀 Learn Linux, DevOps, Python, Docker, Cybersecurity
 <!--
 **robert-kvam/robert-kvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,45 +20,35 @@ I love Space Exploration and Space Games
 
 
 
+
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
 <p>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&&logo=python&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&&logo=docker&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&&logo=ansible&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&&logo=cloudflare&logoColor=white" /> 
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&&logo=terraform&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&&logo=prometheus&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&&logo=kubernetes&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&&logo=grafana&logoColor=white" />
 </p>
 
 ### Infrastructure & Network Technologies
 <p>
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
-  <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" /> 
-  <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
-  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />  
-  <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&&logo=nginx&logoColor=white" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&&logo=proxmox&logoColor=white" /> 
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&&logo=ubuntu&logoColor=white" /> 
+  <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=for-the-badge&&logo=arch-linux&logoColor=white" /> 
+  <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=for-the-badge&&logo=kali-linux&logoColor=white" />
+  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&&logo=wireguard&logoColor=white" />  
+  <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=for-the-badge&&logo=wireshark&logoColor=white" /> 
 </p>
 
 ### Productivity & Communication Tools
 <p>
-  <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FB542B?style=flat&logo=firefox&logoColor=white" /> 
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-</p>
-<p align="center">
-    <!-- Social Links -->
-    <!-- Email -->
-    <a href="mailto:rob.kv@pm.me" target="_blank"><img alt="Email"
-            src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=EA4335">
-    </a>
-    <!-- Linkedin -->
-    <a href="https://www.linkedin.com/in/r-kvam/" target="_blank"><img alt="Linkedin"
-            src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-    </a>
+  <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FB542B?style=for-the-badge&&logo=firefox&logoColor=white" /> 
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&&logo=slack&logoColor=white" /> 
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&&logo=discord&logoColor=white" />
 </p>
