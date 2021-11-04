@@ -3,7 +3,7 @@ I’m a Tech enthusiast, and IT professional.
 
 I ❤️ to **inspire and educate** people in IT.
 
-🚀 Learn Linux, DevOps, Python, Docker, Cybersecurity
+🚀 Learn Linux, DevOps, Python, Docker, Kubernetes, Cybersecurity
 <!--
 **robert-kvam/robert-kvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
