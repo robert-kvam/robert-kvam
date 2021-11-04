@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white" />
   <img alt="Microsoft_Azure" src="https://img.shields.io/badge/-Microsoft_Azure-007ACC?style=for-the-badge&&logo=microsoft-azure&logoColor=white" />
   <img alt="OVH" src="https://img.shields.io/badge/-OVH_Cloud_Hosting-000E9C?style=for-the-badge&&logo=ovh&logoColor=white" />
-  <img alt="Azure_DevOps" src="https://img.shields.io/badge/-Azure_DevOps-007ACC?style=for-the-badge&&logo=azure-devops&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-407EAF?style=for-the-badge&&logo=python&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&&logo=docker&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&&logo=cloudflare&logoColor=white" />
@@ -47,4 +46,5 @@ Here are some ideas to get you started:
   <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FB542B?style=for-the-badge&&logo=firefox&logoColor=white" /> 
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&&logo=slack&logoColor=white" /> 
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&&logo=discord&logoColor=white" />
+  <img alt="Azure_DevOps" src="https://img.shields.io/badge/-Azure_DevOps-007ACC?style=for-the-badge&&logo=azure-devops&logoColor=white" />
 </p>
