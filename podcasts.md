@@ -16,6 +16,6 @@
 ```
 
 ### Youtube channels
-- The Five Laws of Cybersecurity [TEDx Talks](https://www.youtube.com/watch?v=_nVq7f26-Uo)
-- CrowdSec [CrowdSec - Youtube Channel](https://www.youtube.com/channel/UCKhMjrV_Y2ws3gTW-SsxFkA)
-- Techno Tim [TechnoTimLive - Youtube Channel](https://www.youtube.com/c/TechnoTimLive)
+- The Five Laws of Cybersecurity [[TEDx Talks]](https://www.youtube.com/watch?v=_nVq7f26-Uo)
+- CrowdSec [[CrowdSec - Youtube Channel]](https://www.youtube.com/channel/UCKhMjrV_Y2ws3gTW-SsxFkA)
+- Techno Tim [[TechnoTimLive - Youtube Channel]](https://www.youtube.com/c/TechnoTimLive)
