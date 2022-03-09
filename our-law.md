@@ -1,9 +1,7 @@
 ## Our Law
 
-```
-Law 1: if there is a vulnerability, it will be exploited. 
-Law 2: Everything is vulnerable in some way
-Law 3 :Humans can trust when they shouldn't.
-Law 4 : with innovation comes opportunity for exploitation. 
-Law 5: when in doubt, see law 1
-```
+1. Law: if there is a vulnerability, it will be exploited. 
+2. Law: Everything is vulnerable in some way
+3. Law:Humans can trust when they shouldn't.
+4. Law: with innovation comes opportunity for exploitation. 
+5. Law: when in doubt, see law 1
